@@ -1,0 +1,31 @@
+
+PS C:\xampp\htdocs\depot> git init
+PS C:\xampp\htdocs\depot> git add .
+PS C:\xampp\htdocs\depot> git clone https://github.com/Manogithu2025/site-vitrine25022025.git
+warning: You appear to have cloned an empty repository.
+
+PS C:\xampp\htdocs\depot> cd site-vitrine25022025
+PS C:\xampp\htdocs\depot\site-vitrine25022025> git status
+
+PS C:\xampp\htdocs\depot\site-vitrine25022025> git add .
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+PS C:\xampp\htdocs\depot\site-vitrine25022025> git config --global user.email "tchandikou.manoba@yahoo.fr"
+PS C:\xampp\htdocs\depot\site-vitrine25022025> git config --global user.email "tchandikou.manoba@yahoo.fr"
+PS C:\xampp\htdocs\depot\site-vitrine25022025>   git config --global user.name "Manogithu2025"
+PS C:\xampp\htdocs\depot\site-vitrine25022025>  git commit -m "version du 25 fervrier 2025"
+
+PS C:\xampp\htdocs\depot\site-vitrine25022025> git push origin main
+
+PS C:\xampp\htdocs\depot\site-vitrine25022025> 
+
+git init
+git clone
+en etant dan le dossier cloné on fait :
+PS C:\xampp\htdocs\exercice-phpMyAdmin> git add .
+PS C:\xampp\htdocs\exercice-phpMyAdmin> git commit --m "block de contact"
+git push origin main

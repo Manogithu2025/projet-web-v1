@@ -1,0 +1,10 @@
+ php -S localhost:8000 -t public
+http://localhost:8000/dashboard#suivi
+php artisan migrate:refresh
+
+php artisan serve
+git config --global user.email "tchandikou.manoba@yahoo.fr"
+  git config --global user.name "Manogithu2025"
+
+
+OMYODHEVAVHEHOUHIVAHI2024
